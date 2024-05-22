@@ -25,7 +25,7 @@ For example, if the repository requires a Contributor License Agreement (CLA) to
 
 ## Contributing guidelines
 Include a link to the following:
-* Contributing guide.
+* Contributing guide
 * How to report a bug
 * How to file an issue
 
