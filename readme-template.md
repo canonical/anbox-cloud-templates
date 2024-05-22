@@ -17,19 +17,23 @@ Include details about integrations required with any other components
 Include instructions required to ensure security and also a means to report security vulnerabilities and issues.
 
 ## Cleanup
+(Optional)
 Include instructions on how to uninstall/remove and clean up.
 
 ## Licensing
 Include the licensing required for contributing to the repository and the terms and conditions for the same.
-For example, if the repository requires a Contributor License Agreement (CLA) to be signed for contributions, include the instructions to sign the same.
+For example, all Canonical repositories require a Contributor License Agreement (CLA) to be signed for contributions, include the instructions to sign the same.
 
 ## Contributing guidelines
 Include a link to the following:
 * Contributing guide
-* How to report a bug
-* How to file an issue
+* How to report a bug or file an issue in the repository
 
 ## Next steps
+(Optional)
+Include information on what the users can do next after the initial setup and configuration.
+
+## More information
 Include a link to the following:
 * Documentation
 * Contact information
