@@ -10,7 +10,7 @@ When contributing, you must adhere to the [Code of Conduct](https://ubuntu.com/c
 
 ## Copyright
 
-The code in this repository is proprietary and copyrighted to Canonical. See [COPYRIGHT](./COPYRIGHT).
+< Use the appropriate copyright. If the code in entirely proprietary, it should be copyrighted to Canonical as per [COPYRIGHT](./COPYRIGHT). If the repository is licensed under any open-source or free software licenses, include copyright information accordingly.>
 
 ## License agreement
 
